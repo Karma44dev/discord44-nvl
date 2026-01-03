@@ -29,7 +29,7 @@ Téléchargez la dernière version de discord44
 
 Placez le fichier DLL dans :
 
-> Nova-Life/Servers/<VotreSlot>/Plugins
+> Nova-Life/Servers/VotreServeur/Plugins
 
 Démarrez ou redémarrez votre serveur
 
